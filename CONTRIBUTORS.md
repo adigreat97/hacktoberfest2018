@@ -1,3 +1,10 @@
+Name: [Aditya Prakash Mishra](https://github.com/adigreat97)<br/>
+Place: India<br/>
+About: Student<br/>
+Programming languages: Java, Html, SQL <br/>
+Email: adityanineteen97@gmail.com
+
+
 Name: [Sarah](https://github.com/sarahxoxo)<br/>
 Place: Taiwan<br/>
 About: software engineering developer!<br/>
